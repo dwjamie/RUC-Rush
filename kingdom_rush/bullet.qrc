@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resource/Bullet/Arrow/Arrow.png</file>
+        <file>Resource/Bullet/Arrow/Hit.wav</file>
+        <file>Resource/Bullet/Arrow/Release.wav</file>
+        <file>Resource/Bullet/Fireball/Bomb.png</file>
+        <file>Resource/Bullet/Fireball/Hit.wav</file>
+        <file>Resource/Bullet/Fireball/Missile.png</file>
+        <file>Resource/Bullet/Fireball/Unleash.wav</file>
+        <file>Resource/Bullet/Spell/Hit.wav</file>
+        <file>Resource/Bullet/Spell/Spell_1.png</file>
+        <file>Resource/Bullet/Spell/Spell_2.png</file>
+        <file>Resource/Bullet/Spell/Shot.wav</file>
+    </qresource>
+</RCC>

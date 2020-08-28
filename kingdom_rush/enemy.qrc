@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resource/Enemy/Goblin/Back.png</file>
+        <file>Resource/Enemy/Goblin/Dead_Left.png</file>
+        <file>Resource/Enemy/Goblin/Dead_Right.png</file>
+        <file>Resource/Enemy/Goblin/Dead.wav</file>
+        <file>Resource/Enemy/Goblin/Front.png</file>
+        <file>Resource/Enemy/Goblin/Left.png</file>
+        <file>Resource/Enemy/Goblin/Right.png</file>
+        <file>Resource/Enemy/Juggernaut/Dead.wav</file>
+        <file>Resource/Enemy/Juggernaut/Jug_back.png</file>
+        <file>Resource/Enemy/Juggernaut/Jug_dead_left.png</file>
+        <file>Resource/Enemy/Juggernaut/Jug_dead_right.png</file>
+        <file>Resource/Enemy/Juggernaut/Jug_left.png</file>
+        <file>Resource/Enemy/Juggernaut/Jug_right.png</file>
+        <file>Resource/Enemy/NextWaveReady.wav</file>
+        <file>Resource/Enemy/Orc/Back.png</file>
+        <file>Resource/Enemy/Orc/Dead_Left.png</file>
+        <file>Resource/Enemy/Orc/Dead_Right.png</file>
+        <file>Resource/Enemy/Orc/Dead.wav</file>
+        <file>Resource/Enemy/Orc/Front.png</file>
+        <file>Resource/Enemy/Orc/Left.png</file>
+        <file>Resource/Enemy/Orc/Right.png</file>
+        <file>Resource/Enemy/Troll/Back.png</file>
+        <file>Resource/Enemy/Troll/Dead_Left.png</file>
+        <file>Resource/Enemy/Troll/Dead_Right.png</file>
+        <file>Resource/Enemy/Troll/Dead.wav</file>
+        <file>Resource/Enemy/Troll/Front.png</file>
+        <file>Resource/Enemy/Troll/Left.png</file>
+        <file>Resource/Enemy/Troll/Right.png</file>
+    </qresource>
+</RCC>

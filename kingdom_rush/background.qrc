@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resource/Background/Stage_1.png</file>
+        <file>Resource/Background/Stage_2.png</file>
+        <file>Resource/Background/BGM_1.wav</file>
+        <file>Resource/Background/BGM_2.wav</file>
+        <file>Resource/Background/Game_Lose.wav</file>
+        <file>Resource/Background/Game_Win.wav</file>
+        <file>Resource/Background/Lose_Life.wav</file>
+        <file>Resource/Background/Victory.png</file>
+        <file>Resource/Background/continue.png</file>
+        <file>Resource/Background/quit.png</file>
+        <file>Resource/Background/Next_Wave_Ready.wav</file>
+        <file>Resource/Background/Defeat.png</file>
+    </qresource>
+</RCC>

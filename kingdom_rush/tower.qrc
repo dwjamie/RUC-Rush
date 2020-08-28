@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resource/Tower/Archer/Archer_1.png</file>
+        <file>Resource/Tower/Archer/Archer_2.png</file>
+        <file>Resource/Tower/Archer/Build.wav</file>
+        <file>Resource/Tower/Archer/Upgrade.wav</file>
+        <file>Resource/Tower/Artillery/Artillery_1.png</file>
+        <file>Resource/Tower/Artillery/Artillery_2.png</file>
+        <file>Resource/Tower/Artillery/Build.wav</file>
+        <file>Resource/Tower/Artillery/Upgrade.wav</file>
+        <file>Resource/Tower/Mage/Build.wav</file>
+        <file>Resource/Tower/Mage/Mage_1.png</file>
+        <file>Resource/Tower/Mage/Mage_2.png</file>
+        <file>Resource/Tower/Mage/Upgrade.wav</file>
+        <file>Resource/Tower/Archer/Icon.png</file>
+        <file>Resource/Tower/Artillery/Icon.png</file>
+        <file>Resource/Tower/Mage/Icon.png</file>
+        <file>Resource/Tower/Base.png</file>
+        <file>Resource/Tower/Tower_Sell.wav</file>
+    </qresource>
+</RCC>
